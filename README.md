@@ -25,5 +25,5 @@ params:
  - [PR](https://github.com/SamaadTurner/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed)
  - [Github Action](https://github.com/SamaadTurner/server-deployment-practice/settings)
 # Contributors
-Jacob Knaack and Samaad Turner
+Samaad Turner
 
